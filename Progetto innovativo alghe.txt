@@ -1,0 +1,111 @@
+﻿Versione 1
+
+
+Le alghe sono presenti in abbondanza e crescono facendo diminuire la CO2. Andare a prelevare dal mar adriatico consentirebbe di diminuirne la presenza altamente impattante per l'ambiente marino. Usato come biocombustibile diverrebbe un prodotto di energia sostenibile perché reimmette nell'ambiente la CO2 consumata nel ciclo di vita dell'alga.
+per l'estrazione dei lipidi si procede con l'uso di esano e un distillatore dopo aver pulito ed essiccato il materiale.
+
+
+1. Si fa crescere le alghe in un tubo circolare illuminato con lampade uv, con in mezzo una lastra con dei buchi per intrappolare le alghe troppo grandi che dopo verranno estratte dal tubo e immesse nell essicatore. le alghe vito che non hanno bisogno di nutrienti e hanno solo bisogno di luce solare o dalle lampade uv e co2 che immetteremo con una semplice pompa che prende aria dall esterno e la immette nel circuito. per spostare le alghe si usera un elica elettrica 
+2. si metttono le alghe nell essicatore che rimuove i liquidi e umidita.
+3. dopo aver tolto le alghe dall essicatore bisongna tritate le alghe con un mulino fimno a diventare polvere
+4. si mischia la polvere con l esano liquido e si lascia assorbire l’ olio dall esano e dopo si toglie la parte solida filtrandola e infine si distilla separando l esano dall olio l’ esano si riusa e l’ olio resta a parte
+5. le applicazioni per l’olio sono per esempio: carburante lubrificante mangiare per animali e uomini, bioplastica, carburante per aerei (jetfuel), riscaldamento per case , combustibili e carburanti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Versione 2.  
+
+
+
+
+Le alghe costituiscono una risorsa naturale abbondante, la cui coltivazione e utilizzo offrono soluzioni promettenti per la riduzione dell'anidride carbonica (CO2) atmosferica e la produzione di energia sostenibile. Durante la crescita, infatti, le alghe assorbono CO2, contribuendo così alla mitigazione dei cambiamenti climatici e riducendo la presenza di questo gas serra nell'ambiente. La possibilità di prelevare le alghe dal Mar Adriatico consentirebbe, inoltre, di limitare la loro proliferazione incontrollata, che potrebbe avere un impatto altamente negativo sull'ecosistema marino, come nel caso dell'eutrofizzazione. Rimuoverle favorirebbe quindi una migliore qualità delle acque marine e la salvaguardia della biodiversità.
+
+
+### Utilizzo delle alghe come biocombustibile
+
+
+L’impiego delle alghe come biocombustibile rappresenta una delle soluzioni più interessanti per il raggiungimento di un modello energetico sostenibile. Il ciclo di vita delle alghe permette un equilibrio nel bilancio del carbonio: la CO2 assorbita durante la loro crescita viene infatti reimmessa nell'ambiente durante la combustione, rendendo così il processo neutrale rispetto alle emissioni. Questo rende le alghe una fonte alternativa più sostenibile rispetto ai combustibili fossili, in quanto il loro utilizzo non contribuisce all'aumento netto delle emissioni di gas serra.
+
+
+Le applicazioni del biocombustibile ricavato dalle alghe sono numerose. Oltre a essere utilizzato per la produzione di carburanti per veicoli, gli oli estratti dalle alghe possono trovare impiego come lubrificanti, mangimi per animali, alimenti per l'uomo, materiali per la produzione di bioplastiche, carburante per aerei (jet fuel), riscaldamento domestico e altre forme di combustibili alternativi.
+
+
+### Processo di estrazione dei lipidi dalle alghe
+
+
+Uno dei principali utilizzi delle alghe nel contesto della produzione di biocombustibili è l’estrazione dei lipidi, ovvero la componente grassa che può essere trasformata in biodiesel o altri tipi di carburanti. Il processo di estrazione dei lipidi inizia con la raccolta delle alghe, seguita da una fase di pulizia e di essiccazione per rimuovere impurità e umidità. Questo passaggio è cruciale per ottimizzare l’efficienza dell'estrazione e la qualità del prodotto finale.
+
+
+Dopo l’essiccazione, le alghe vengono triturate fino a ottenere una polvere fine. Questa polvere viene quindi mescolata con esano liquido, un solvente che ha la capacità di dissolvere efficacemente i lipidi presenti nelle alghe. L’esano permette l'estrazione selettiva degli oli, separandoli dalla parte solida. Una volta che l’olio è stato assorbito dal solvente, la miscela viene filtrata per rimuovere le parti solide non utilizzabili. Successivamente, si procede alla distillazione, durante la quale l’esano viene separato dall’olio attraverso il riscaldamento. Il solvente esano viene recuperato e riutilizzato nei cicli successivi, riducendo così i costi operativi e l'impatto ambientale. L’olio estratto, a questo punto, è pronto per essere trasformato in biocarburante o per altri usi industriali.
+Il processo di estrazione è particolarmente efficiente grazie alla possibilità di riciclare l’esano e di ottenere una separazione pulita degli oli dalle alghe. Questo metodo permette di ridurre i rifiuti e di garantire un ciclo produttivo sostenibile sia dal punto di vista economico che ambientale.
+
+
+### Sistemi di coltivazione delle alghe
+
+
+Per garantire una produzione costante e controllata di alghe, queste possono essere coltivate in bioreattori progettati appositamente. Un esempio di tale sistema prevede l’utilizzo di un tubo circolare, all'interno del quale le alghe vengono esposte a una fonte di luce artificiale, come le lampade UV. Questo ambiente di coltivazione è studiato per massimizzare l’efficienza della crescita, fornendo alle alghe le condizioni ottimali per il loro sviluppo.
+
+
+All'interno del bioreattore, viene posizionata una lastra forata che ha il compito di trattenere le alghe di dimensioni troppo grandi, facilitando così la loro successiva rimozione e il trasferimento nell’essiccatore. Per crescere, le alghe necessitano principalmente di luce solare o di luce artificiale e di anidride carbonica. Quest'ultima viene immessa nel sistema tramite una pompa che preleva aria dall'esterno e la introduce nel circuito. Inoltre, un’elica elettrica installata all'interno del bioreattore permette di mantenere in movimento le alghe, garantendo una distribuzione uniforme della luce e della CO2, elementi fondamentali per la fotosintesi e la crescita.
+
+
+Dopo il processo di coltivazione, le alghe vengono estratte dal bioreattore e trasferite in un essiccatore, dove vengono private di liquidi e umidità. Questo passaggio è essenziale per preparare il materiale alla successiva fase di lavorazione, ovvero la triturazione e l’estrazione dei lipidi.
+
+
+### Benefici ambientali ed economici
+
+
+L’utilizzo delle alghe come fonte di biocombustibile offre numerosi vantaggi sia dal punto di vista ambientale che economico. Le alghe, a differenza delle colture terrestri utilizzate per la produzione di biocombustibili, non competono con le coltivazioni alimentari e possono essere coltivate in aree marine o in bioreattori su scala industriale, senza richiedere grandi superfici di terreno. Inoltre, le alghe non necessitano di nutrienti complessi: la loro crescita si basa essenzialmente sulla luce e sulla CO2, due elementi abbondanti e facilmente reperibili. 
+
+
+Dal punto di vista ambientale, l'utilizzo delle alghe contribuisce alla riduzione della CO2 atmosferica e alla produzione di energia rinnovabile, riducendo la dipendenza dai combustibili fossili e limitando le emissioni di gas serra. Dal punto di vista economico, il processo di coltivazione, estrazione e produzione di biocombustibili da alghe può diventare sempre più competitivo grazie agli sviluppi tecnologici e all'ottimizzazione dei processi di estrazione.
+
+
+In conclusione, le alghe offrono una soluzione innovativa e sostenibile per affrontare alcune delle principali sfide legate alla produzione energetica e al cambiamento climatico. Attraverso tecnologie avanzate di coltivazione e di estrazione, è possibile massimizzare i benefici di questa risorsa naturale, promuovendo un modello di sviluppo più rispettoso dell'ambiente.
